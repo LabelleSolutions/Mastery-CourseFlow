@@ -1,434 +1,56 @@
 # Mastery-CourseFlow
-TRAIN YOUR VOICE. CONTROL YOUR SPEECH.  speech performance training platform
-Create me  an app  
-Included in Final Version
-Core Product
-* GTA-style neon city world map
-* Clickable districts
-* XP / streak / quests / rewards
-* AI diagnostics + roadmap
-* Audio record / playback / download
-* Offline-first sync system
-* Bilingual VN / EN
-Monetization
-* Free / Pro / Elite / Team plans
-* Flash sales
-* Referral rewards
-* Coupons
-* Gift plans
-Business Systems
-* CRM pipeline
-* Coach marketplace
-* Qollab hiring board
-* Founder KPI dashboard
-Launch Ready
-* App Store pages
-* Review prompts
-* Privacy / legal compliance
-
- full-stack company platform combining:
-Consumer SaaS
-AI + Human speaking performance training
-B2B SaaS
-Corporate team training + HR readiness scoring
-Marketplace
-Coach booking + earnings ecosystem
-Hiring Network
-Certified talent + employer portal
-Growth Engine
-Referral, ambassador, city expansion systems
-Investor Narrative
-Metrics, moat, SEA expansion story
- The platform should integrate seamlessly with existing HR systems.
- The AI should provide real-time feedback on communication skills, and the human coaching element should focus on nuanced delivery and confidence building.
-
-The investor narrative should highlight the unique selling propositions and competitive advantages over competitors. We aim to build a comprehensive ecosystem.
-
- and user-friendly features that simplify onboarding.
-fully working production-ready SaaS build.  The minimum viable product should include core functionalities for practice sessions and basic feedback analysis.
-
-Optimized app based on vietnamese pscychology. Real Market Weapon
-1. Vietnam customer psychology
-2. Duolingo-level retention
-3. Viral referrals
-4. B2B hiring partnerships
-5. Real AI scoring backend
-6. App Store publish package
-7. Investor deck + valuation narrative
-
-
-structured as a launchable startup product.
-
-Real Product Infrastructure
-* Next.js 15 + TypeScript
-* Database-ready architecture
-* Google login + email auth
-* User accounts / roles
-* Subscription billing ready
-* PWA installable mobile app
-Core Revenue Engine
-* Free / Pro / Elite plans
-* Upgrade paywalls
-* Referral rewards
-* Conversion funnels
-GTA World Gamification
-* Real clickable city map
-* XP economy
-* Daily quests
-* Unlock districts
-* Streak rewards
-* Final Mastery Tower
-AI Speaking Engine UI
-* Recording + playback
-* Download voice files
-* Upload samples
-* Pronunciation scorecards
-* Fluency metrics
-* Confidence metrics
-* Personalized roadmap
-Business Expansion Ready
-* Human coach bookings
-* Community hub
-* Admin analytics
-* Certification + QR verification
-Offline First
-* Installable app
-* Cache mode
-* Download lessons
-* Sync later queue
-
-
-Build logic on
-
-Token and session handling 
-Role based access
-Implement vietnamese - ready authentication with email/SSO role based access and protected routed for the operator command center 
-Add admin role UI
-Implement vietnamese payment method for bank transfer or credit card payment
-    Subscription tiers
-Unlock Mastery Pro
-Your full 90-day execution plan.
-Monthly
-$29/mo
-SAVE 40%
-Annual · Most Picked
-$199/yr · $16/mo
-Mastery Complete · Lifetime + Coach
-$899 one-time
-Unlimited AI coach sessions
-All 12 city districts unlocked
-1:1 human coach calls
-Certificate of Mastery
-Start 7-Day Free Trial
-Cancel anytime. No questions asked.
-Three tiers. Annual is the gravity well.
-
-
-UI  theme build is set GTA-style city map production UI build  Build Includes
-
-Immersive Neon City Progression Map
-
-* Clickable training districts
-* Locked roads / guided future paths
-* Gold completed zones
-* Pulsing active mission zones
-* HUD with XP, streaks, progress
-
-District Gates
-
-1. Forge District
-2. Story Loop Boulevard
-3. Cognitive Heights
-4. Arena Central
-5. Hall of Mastery Tower
-
-Full Voice Tools
-
-* Mic recording
-* Playback
-* Download recordings
-* Upload samples
-* AI feedback console
-
-Business Ready Monetization
-
-* Upgrade gates / paywalls
-* Free / Pro / Elite tiers
-* Triggered CTA prompts
-
-Certification
-
-* Gold Mastery Certificate
-* QR credential
-* Share achievement flow
-
-Offline First
-
-* Offline indicator
-* Saved local progress
-* Sync queue when online
-* Downloadable district content
-to include
-* Premium gamified mobile app experience
-* Landing page + onboarding + Google sign in
-* Free AI speaking/job diagnostic
-* Upgrade CTA funnel + visitor restrictions
-* Offline-first architecture concepts
-* Adventure progression map:
-    * The Forge
-    * Storyteller’s Loop
-    * Cognitive Prominence
-    * Grand Arena
-    * Hall of Mastery
-* AI coach + human instructor booking
-* Community world / avatars / guilds
-* Certificate + Gold QR credential
-* Privacy / terms compliant pages
-* Next.js 15 / Tailwind / TypeScript structures
-    App Store / Play Store publish readiness
-5. Real AI scoring engine architecture
-6. Figma export + developer handoff
-7. Enterprise hiring ecosystem for Qollab
-
-
-Strategic note: 
-speech training + employability + certification + community + AI coaching + offline access
-
-Product Infrastructure
-
-* Next.js 15 + TypeScript
-* Database-ready architecture
-* Google login + email auth
-* User accounts / roles
-* Subscription billing ready
-* PWA installable mobile app
-
-Core Revenue Engine
-
-* Free / Pro / Elite plans
-* Upgrade paywalls
-* Referral rewards
-* Conversion funnels
-
-GTA World Gamification
-
-* Real clickable city map
-* XP economy
-* Daily quests
-* Unlock districts
-* Streak rewards
-* Final Mastery Tower
-
-AI Speaking Engine UI
-
-* Recording + playback
-* Download voice files
-* Upload samples
-* Pronunciation scorecards
-* Fluency metrics
-* Confidence metrics
-* Personalized roadmap
-
-Business Expansion Ready
-
-* Human coach bookings
-* Community hub
-* Admin analytics
-* Certification + QR verification
-
-Offline First
-
-* Installable app
-* Cache mode
-* Download lessons
-* Sync later queue
-
-
-    Daily streaks + streak shields
-* 5-minute quick wins
-* Reward chests
-* Weekly speaking boss battles
-* Comeback reactivation campaigns
-* Personalized next action prompts
-
-Vietnam Market Ready
-
-* Vietnamese / English toggle
-* Pricing in VND
-* MoMo / ZaloPay / VNPay flows
-* Vietnam testimonials
-* Career-focused messaging
-* Ambassador city growth program
-
-Revenue Growth
-
-* Stronger free-to-paid conversion
-* Flash sale upgrade modals
-* Referral commissions
-* Gift plans
-* Team/company packages
-
-B2B Ecosystem
-
-* Employer portal
-* Certified talent hiring board
-* Candidate readiness scoring
-* Partner center / school dashboards
-* Franchise inquiry funnel
-
-AI Product Power Perception
-
-* Live score animations
-* Improvement forecasts
-* Industry simulations
-* AI planner
-* Confidence heatmaps
-
-Investor Readiness
-
-* Mock metrics dashboard
-* MRR / CAC / LTV pages
-* SEA expansion roadmap
-* Why now narrative
-
-
-Real Sales Machine / CRM
-
-* Lead pipeline dashboard
-* Trial → Won flows
-* Follow-up reminders
-* Conversion analytics
-* Notes system
-
-4. Human Coach Marketplace
-
-* Coach profiles
-* Booking calendar
-* Session wallet credits
-* Ratings / reviews
-* Coach earnings dashboard
-
-5. Corporate Revenue Expansion
-
-* Enterprise landing page
-* Team training portal
-* HR readiness reports
-* Bulk seats
-* Franchise / white-label funnels
-
-6. App Store Launch Assets
-
-* Screenshot-ready screens
-* App icon concepts
-* Onboarding carousel
-* Review prompts
-* Release notes pages
-
-7. Investor Deck Embedded
-
-* Problem / solution
-* TAM / market size
-* Revenue model
-* Moat
-* SEA expansion roadmap
-
-8. Keeps Full Core Product
-
-* GTA neon city map
-* AI diagnostics
-* Recording/playback/download
-* Offline sync
-* QR certification
-* Community world
-* VN payments
-
-Vietnam Pricing Strategy
-
-* VND + USD pricing
-* Student plans
-* Corporate calculators
-* Flash sale timers
-* Annual best-value offers
-
-    Real KPI dashboard
-5. Human coach SOPs
-7. Hiring pipeline system
-8. Native app publish checklist
-
-
-Exact Launch Pricing Engine
-
-* Free / Pro / Elite tiers
-* Team business plans
-* Coupons
-* Flash sales
-* A/B pricing tests
-
-2. 30-Day Vietnam Rollout Dashboard
-
-* Daily GTM missions
-* Ambassador campaigns
-* Referral sprint
-* Corporate outreach
-* Conversion push
-
-3. Sales / Ambassador OS
-
-* Recruit portal
-* Commission leaderboard
-* Territory map
-* Lead assignments
-* Scripts library
-
-4. Real KPI Command Center
-
-* MRR
-* CAC
-* LTV
-* Churn
-* DAU / MAU
-* Revenue by plan
-* City growth heatmaps
-* Coach utilization
-
-5. Human Coach Operating System
-
-* Coach onboarding
-* Session templates
-* QA scorecards
-* Attendance tracking
-* Earnings payouts
-
-6. Hiring / Qollab Ecosystem
-
-* Talent directory
-* Employer board
-* Candidate invites
-* Recruiter plans
-
-7. Native App Readiness
-
-* iOS checklist
-* Google Play checklist
-* Permissions center
-* Push settings
-* Reviews / changelog
-
-8. Founder / Investor Center
-
-* Runway calculator
-* Fundraising dashboard
-* Milestone tracker
-* SEA expansion roadmap
-
-9. Full Product Still Included
-
-* GTA city map
-* AI diagnostics
-* Audio tools
-* Offline mode
-* QR certification
-* Community world
-* Vietnam payments
 
+> **TRAIN YOUR VOICE. CONTROL YOUR SPEECH.** — Speech performance training platform.
 
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## Firebase Integration
+
+This project uses Firebase (Auth, Firestore, Storage). See **[docs/firebase.md](docs/firebase.md)** for full setup instructions including:
+
+- Creating a Firebase project and web app
+- Enabling Google and Email/Password authentication
+- Creating Firestore and Storage instances
+- Setting environment variables
+
+### Quick start
+
+```bash
+cp .env.example .env.local
+# Fill in your Firebase project values in .env.local
+```
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
