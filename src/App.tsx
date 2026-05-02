@@ -1,3 +1,5 @@
+"use client";
+
 import { useState } from 'react'
 import TrainingPortal from './components/TrainingPortal'
 import CoachPortal from './components/CoachPortal'

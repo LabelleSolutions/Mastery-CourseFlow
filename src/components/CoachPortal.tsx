@@ -1,3 +1,5 @@
+"use client";
+
 import { useState } from 'react';
 import { LESSONS } from '../data/lessons';
 import { useTrainingSession } from '../hooks/useTrainingSession';

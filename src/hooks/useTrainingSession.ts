@@ -35,7 +35,7 @@ Repeat:`;
 }
 
 async function callAI(prompt: string): Promise<string> {
-  const apiKey = import.meta.env.VITE_OPENAI_API_KEY as string | undefined;
+  const apiKey = process.env.NEXT_PUBLIC_OPENAI_API_KEY as string | undefined;
 
   if (!apiKey) {
     // Demo fallback: return a structured mock response

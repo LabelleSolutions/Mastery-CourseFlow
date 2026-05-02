@@ -1,3 +1,5 @@
+"use client";
+
 import type { AISuggestion } from '../types';
 import './ScoringSection.css';
 

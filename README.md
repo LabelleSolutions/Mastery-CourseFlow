@@ -1,8 +1,8 @@
 # Mastery CourseFlow
 
-**TRAIN YOUR VOICE. CONTROL YOUR SPEECH.**
+**TRAIN YOUR VOICE. CONTROL YOUR SPEECH.** — Speech performance training platform.
 
-A speech performance training platform for Elite students and coaches.
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ---
 
@@ -36,58 +36,56 @@ A speech performance training platform for Elite students and coaches.
 
 ---
 
+## Firebase Integration
+
+This project uses Firebase (Auth, Firestore, Storage). See **[docs/firebase.md](docs/firebase.md)** for full setup instructions including:
+
+- Creating a Firebase project and web app
+- Enabling Google and Email/Password authentication
+- Creating Firestore and Storage instances
+- Setting environment variables
+
+### Quick start
+
+```bash
+cp .env.example .env.local
+# Fill in your Firebase project values in .env.local
+# Optionally add NEXT_PUBLIC_OPENAI_API_KEY for live AI feedback
+```
+
+---
+
 ## Setup
 
 ```bash
 npm install
-```
-
-### Optional: OpenAI API Key
-
-Copy `.env.example` to `.env.local` and fill in your key for live AI feedback.
-Without it the app uses a demo fallback response.
-
-```bash
-cp .env.example .env.local
-# Edit .env.local and set VITE_OPENAI_API_KEY=sk-...
-```
-
-### Development
-
-```bash
 npm run dev
-```
-
-### Production Build
-
-```bash
-npm run build
 ```
 
 ---
 
 ## Scoring Structure
 
-| Score        | Max | Notes                                 |
-|--------------|-----|---------------------------------------|
-| Student Score | 25 | +5 per "Mark Repetition Done" click   |
-| AI Score     | 15  | Fixed at 12                           |
-| Coach Score  | 25  | Manual input; overrides AI            |
-| **Total**    | **65** | Auto-calculated                    |
+| Score         | Max    | Notes                                |
+|---------------|--------|--------------------------------------|
+| Student Score | 25     | +5 per "Mark Repetition Done" click  |
+| AI Score      | 15     | Fixed at 12                          |
+| Coach Score   | 25     | Manual input; overrides AI           |
+| **Total**     | **65** | Auto-calculated                      |
 
 ---
 
 ## Lessons
 
-| # | Name                      | Focus           |
-|---|---------------------------|-----------------|
-| 1 | Lesson 1 – Breath Control | Breath Control  |
-| 2 | Lesson 2 – Sound Awareness| Sound Awareness |
-| 3 | Lesson 3 – Ending Sounds  | Ending Sounds   |
-| 4 | Lesson 4 – Clarity        | Clarity         |
-| 5 | Lesson 5 – Projection     | Projection      |
-| 6 | Lesson 6 – Resonance      | Resonance       |
-| 7 | Lesson 7 – Tone Control   | Tone Control    |
-| 8 | Lesson 8 – Rhythm         | Rhythm          |
-| 9 | Lesson 9 – Prominence     | Prominence      |
-| 10| Lesson 10 – Variation     | Variation       |
+| # | Name                       | Focus           |
+|---|----------------------------|-----------------|
+| 1 | Lesson 1 – Breath Control  | Breath Control  |
+| 2 | Lesson 2 – Sound Awareness | Sound Awareness |
+| 3 | Lesson 3 – Ending Sounds   | Ending Sounds   |
+| 4 | Lesson 4 – Clarity         | Clarity         |
+| 5 | Lesson 5 – Projection      | Projection      |
+| 6 | Lesson 6 – Resonance       | Resonance       |
+| 7 | Lesson 7 – Tone Control    | Tone Control    |
+| 8 | Lesson 8 – Rhythm          | Rhythm          |
+| 9 | Lesson 9 – Prominence      | Prominence      |
+| 10| Lesson 10 – Variation      | Variation       |
