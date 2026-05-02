@@ -14,7 +14,7 @@ const requiredEnvVars = {
 
 const missingVars = Object.entries(requiredEnvVars)
   .filter(([, value]) => !value)
-  .map(([key]) => `NEXT_PUBLIC_FIREBASE_${key.replace(/([A-Z])/g, "_$1").toUpperCase()}`);
+  .map(([key]) => `NEXT_PUBLIC_FIREBASE_${key.replace(/([A-Z])/g, (_, ch, offset) => (offset > 0 ? '_' : '') + ch).toUpperCase()}`);
 
 if (missingVars.length > 0) {
   throw new Error(
